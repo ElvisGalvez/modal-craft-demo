@@ -1,0 +1,10 @@
+.custom-button {
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+  
+.custom-button.open {
+    background-color: blue;
+    color: white;
+}

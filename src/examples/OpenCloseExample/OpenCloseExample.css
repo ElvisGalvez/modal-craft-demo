@@ -1,0 +1,16 @@
+.custom-button {
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+  
+.custom-button.open {
+    background-color: blue;
+    color: white;
+}
+
+.modal-note {
+    font-size: 1em;
+    color: #5018d3;
+    margin-top: 10px;
+}

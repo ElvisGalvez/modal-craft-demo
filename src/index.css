@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  body {
+    font-weight: 400;
+    font-family: "Lato", "Helvetica Neue", arial, sans-serif;
+    line-height: 1.666;
+    -webkit-font-smoothing: antialiased;
+    color: #5e6c76;
+    padding: 10px 0 0 0;
+  }
 }
 
 code {
