@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-modal-demo/static/css/main.798d7305.css",
-    "main.js": "/react-modal-demo/static/js/main.1f1f1532.js",
-    "index.html": "/react-modal-demo/index.html",
-    "main.798d7305.css.map": "/react-modal-demo/static/css/main.798d7305.css.map",
-    "main.1f1f1532.js.map": "/react-modal-demo/static/js/main.1f1f1532.js.map"
+    "main.css": "/modal-craft-demo/static/css/main.798d7305.css",
+    "main.js": "/modal-craft-demo/static/js/main.b0145670.js",
+    "index.html": "/modal-craft-demo/index.html",
+    "main.798d7305.css.map": "/modal-craft-demo/static/css/main.798d7305.css.map",
+    "main.b0145670.js.map": "/modal-craft-demo/static/js/main.b0145670.js.map"
   },
   "entrypoints": [
     "static/css/main.798d7305.css",
-    "static/js/main.1f1f1532.js"
+    "static/js/main.b0145670.js"
   ]
 }
