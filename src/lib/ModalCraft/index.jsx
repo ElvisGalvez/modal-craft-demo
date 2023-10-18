@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
-import './Modal.css';
+import './ModalCraft.css';
 
 const Modal = ({
   isOpen = false,

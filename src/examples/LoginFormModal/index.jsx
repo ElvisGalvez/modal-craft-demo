@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Modal from '../../lib/Modal';
+import Modal from '../../lib/ModalCraft';
 import './LoginFormModal.css';
 
 const LoginFormModal = () => {

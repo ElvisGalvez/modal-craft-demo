@@ -1,5 +1,5 @@
 export const openCloseExampleCode = `import React, { useState } from 'react';
-import Modal from '../../lib/Modal';
+import Modal from '../../lib/ModalCraft';
 import './OpenCloseExample.css';
 
 const OpenCloseExample = () => {
@@ -20,7 +20,7 @@ export default OpenCloseExample;
 `;
 
 export const fadeModalExampleCode = `import React, { useState } from 'react';
-import Modal from '../../lib/Modal';
+import Modal from '../../lib/ModalCraft';
 import './FadeModalExample.css';
 
 const FadeModalExample = () => {
@@ -41,7 +41,7 @@ export default FadeModalExample;
 
 export const customStyleExampleCode = `
 import React, { useState } from 'react';
-import Modal from '../../lib/Modal';
+import Modal from '../../lib/ModalCraft';
 import './CustomStyleExample.css';
 
 const CustomStyleExample = () => {
@@ -88,7 +88,7 @@ const CustomStyleExample = () => {
 
 export const loginFormModalExampleCode = `
 import React, { useState } from 'react';
-import Modal from '../../lib/Modal';
+import Modal from '../../lib/ModalCraft';
 import './LoginFormModal.css';
 
 const LoginFormModal = () => {
