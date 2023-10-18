@@ -1,7 +1,7 @@
 {
   "name": "modal-craft-demo",
   "version": "0.1.0",
-  "homepage": "https://elvisgalvez.github.io/react-modal-demo",
+  "homepage": "https://elvisgalvez.github.io/modal-craft-demo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
