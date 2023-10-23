@@ -30,11 +30,11 @@ There are many modal libraries for React. However, some are bulky and complex to
 
 Easily install React Modal via npm or yarn:
 
-`npm install modal-react-lib` 
+`npm install modal-craft` 
 
 or
 
-`yarn add modal-react-lib` 
+`yarn add modal-craft` 
 
 **Basic Usage:**
 
