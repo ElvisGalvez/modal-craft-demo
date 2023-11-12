@@ -2,9 +2,47 @@
     padding: 10px 20px;
     margin: 10px;
     cursor: pointer;
-}
-  
-.custom-button.open {
     background-color: blue;
     color: white;
-}
+  }
+  
+  .custom-button.open {
+    background-color: blue;
+    color: white;
+  }
+  
+  .modal-blocker {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0; 
+    visibility: hidden; 
+    transition: opacity 1s ease, visibility 1s ease; 
+  }
+  
+  .modal-blocker.shown {
+    opacity: 1; 
+    visibility: visible; 
+  }
+  
+  .modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 1s ease, opacity 1s ease; 
+    transform: translateY(-20px); 
+    opacity: 0; 
+  }
+  
+  .modal-blocker.shown .modal-content {
+    transform: translateY(0); 
+    opacity: 1; 
+  }
+  

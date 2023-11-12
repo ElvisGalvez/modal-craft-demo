@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Modal from '../../lib/ModalCraft';
+import Modal from 'modal-craft';
 import './FadeModalExample.css';
 
 const FadeModalExample = () => {
